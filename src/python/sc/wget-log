@@ -1,0 +1,17 @@
+--2020-08-04 11:52:15--  https://drive.google.com/u/0/uc?id=18Di08gG5749qXzOax-vzS3navEYRwL51
+Resolving drive.google.com (drive.google.com)... 216.58.193.78, 2607:f8b0:400a:800::200e
+Connecting to drive.google.com (drive.google.com)|216.58.193.78|:443... connected.
+HTTP request sent, awaiting response... 302 Moved Temporarily
+Location: https://doc-0s-4c-docs.googleusercontent.com/docs/securesc/ha0ro937gcuc7l7deffksulhg5h7mbp1/rkikkvqnetu7ldv7f40tplb8iruinh66/1596567075000/02332577120975364977/*/18Di08gG5749qXzOax-vzS3navEYRwL51 [following]
+Warning: wildcards not supported in HTTP.
+--2020-08-04 11:52:16--  https://doc-0s-4c-docs.googleusercontent.com/docs/securesc/ha0ro937gcuc7l7deffksulhg5h7mbp1/rkikkvqnetu7ldv7f40tplb8iruinh66/1596567075000/02332577120975364977/*/18Di08gG5749qXzOax-vzS3navEYRwL51
+Resolving doc-0s-4c-docs.googleusercontent.com (doc-0s-4c-docs.googleusercontent.com)... 172.217.14.193, 2607:f8b0:400a:801::2001
+Connecting to doc-0s-4c-docs.googleusercontent.com (doc-0s-4c-docs.googleusercontent.com)|172.217.14.193|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 1564052 (1.5M) [application/x-zip-compressed]
+Saving to: ‘sc_data.zip’
+
+sc_data.zip                 0%[                                   ]       0  --.-KB/s               sc_data.zip               100%[==================================>]   1.49M  --.-KB/s    in 0.03s   
+
+2020-08-04 11:52:17 (50.0 MB/s) - ‘sc_data.zip’ saved [1564052/1564052]
+
